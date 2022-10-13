@@ -11,6 +11,6 @@ I'm an android developer. But for good android app you need a server side, so...
 ![MySQL - 3 years](https://img.shields.io/badge/MySQL-3%20years-green)
 ![Java - 3,5 years](https://img.shields.io/badge/Java-3,5%20years-green)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANegrash)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANegrash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
