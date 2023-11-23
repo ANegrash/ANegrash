@@ -13,6 +13,6 @@ You can contact me on
 
 Check my apps on [Play Market](https://play.google.com/store/apps/dev?id=8229762227486259368) and on [RuStore](https://apps.rustore.ru/developer/muFJipv7qg2WzgPQXItAc7ec9yrVKSOI)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANegrash&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANegrash&layout=compact)
 
 
